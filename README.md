@@ -1,6 +1,6 @@
 # Atividade Realizada pela Dupla:
 Lucca de Andrade Vianna Braz 
-Lucas Malfacine Rodrigues 
+& Lucas Malfacine Rodrigues 
 
 # Sistema Web de Gestão de Tarefas
 
