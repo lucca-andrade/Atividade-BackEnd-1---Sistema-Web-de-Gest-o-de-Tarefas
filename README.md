@@ -1,3 +1,7 @@
+Atividade Realizada pela Dupla:
+Lucca de Andrade Vianna Braz - Matrícula 202422924
+Lucas Malfacine Rodrigues - Matrícula 202422972
+
 # Sistema Web de Gestão de Tarefas
 
 Projeto inicial para organização e gerenciamento de tarefas.
