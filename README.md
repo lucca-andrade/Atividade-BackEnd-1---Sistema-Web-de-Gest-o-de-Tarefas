@@ -1,6 +1,6 @@
-Atividade Realizada pela Dupla:
-Lucca de Andrade Vianna Braz - Matrícula 202422924
-Lucas Malfacine Rodrigues - Matrícula 202422972
+# Atividade Realizada pela Dupla:
+Lucca de Andrade Vianna Braz 
+Lucas Malfacine Rodrigues 
 
 # Sistema Web de Gestão de Tarefas
 
